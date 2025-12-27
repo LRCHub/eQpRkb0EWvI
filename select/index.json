@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "最後の花弁 (The meaning of love)",
+  "base_artist": "EGOIST",
+  "createdAt": "2025-12-27T07:09:55.640640Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "最後の花弁 (The meaning of love)",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/01_最後の花弁_(The_meaning_of_love)_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "最後の花弁 (The meaning of love)",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/02_最後の花弁_(The_meaning_of_love)_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "最後の花弁 (The meaning of love)",
+      "artist": "Egoist",
+      "has_synced": true,
+      "path": "select/03_最後の花弁_(The_meaning_of_love)_Egoist.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "最後の花弁 (The meaning of love)",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/pl_01_最後の花弁_(The_meaning_of_love)_EGOIST.txt"
+    }
+  ]
+}
